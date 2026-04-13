@@ -1,0 +1,14 @@
+######## Sites to monitor
+######## Input as ("http://site1" "https://site2" "https://site3")
+######## Notice there's no commas separating.
+
+MONITOR_URLS=("https://push.nacreous.raptorhideout.com" "https://pix.spicywater.world" "https://vault.spicywater.world" "https://fake.spicywater.world")
+
+######## NTFY Server URL 
+######## Don't put a trailing forward slash.
+
+NTFY_SERVER="https://ntfy.sh"
+
+######## NTFY Topic
+
+NTFY_TOPIC="notification_topic"
