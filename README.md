@@ -23,5 +23,5 @@ Then add a line at the bottom
 ```
 0 0-23 * * * /path/to/the/check.sh
 ```
-(This runs hourly)
+(This example runs hourly)
 
