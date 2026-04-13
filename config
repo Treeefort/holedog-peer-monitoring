@@ -2,7 +2,7 @@
 ######## Input as ("http://site1" "https://site2" "https://site3")
 ######## Notice there's no commas separating.
 
-MONITOR_URLS=("https://push.nacreous.raptorhideout.com" "https://pix.spicywater.world" "https://vault.spicywater.world" "https://fake.spicywater.world")
+MONITOR_URLS=("https://service.yourserver.com" "https://otherservice.yourserver.com")
 
 ######## NTFY Server URL 
 ######## Don't put a trailing forward slash.
